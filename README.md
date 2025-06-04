@@ -20,7 +20,7 @@ This is a complete Java EE-based **SOAP Web Service and Client application** des
 │   └── ...
 │
 ├── /database/
-│   └── product.sql  # MySQL schema and sample data
+│   └── as1_enterprise_app_product.sql  # MySQL schema and sample data
 │
 ├── README.md
 └── .gitignore
@@ -59,7 +59,7 @@ This is a complete Java EE-based **SOAP Web Service and Client application** des
 1. Open your MySQL client (e.g., MySQL Workbench).
 2. Import the provided SQL file:
    ```
-   mysql -u root -p < database/product.sql
+   mysql -u root -p < database/as1_enterprise_app_product.sql
    ````
 
 3. This creates a schema named `as1_enterprise_app` with a `product` table and 3 sample entries.
