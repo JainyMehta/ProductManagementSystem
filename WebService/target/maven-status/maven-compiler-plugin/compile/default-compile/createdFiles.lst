@@ -1,0 +1,8 @@
+my\interfaces\IProduct.class
+my\model\updateProductModel.class
+my\model\getAllProductModel.class
+my\model\deleteProductModel.class
+com\mycompany\assignment1webservice\JAXRSConfiguration.class
+com\mycompany\assignment1webservice\resources\JavaEE8Resource.class
+my\model\Products.class
+my\services\ProductImpl.class
