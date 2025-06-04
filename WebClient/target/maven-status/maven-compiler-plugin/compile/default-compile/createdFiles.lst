@@ -1,0 +1,16 @@
+my\helpers\DisplayProductData.class
+my\interfaces\UpdateProductResponse.class
+com\mycompany\assignment1webclient\JAXRSConfiguration.class
+my\services\ProductDisplay.class
+com\mycompany\assignment1webclient\resources\JavaEE8Resource.class
+my\interfaces\GetAllProductsResponse.class
+my\interfaces\ObjectFactory.class
+my\services\IProduct.class
+my\model\Product.class
+my\services\ProductImplService.class
+my\interfaces\DeleteProductResponse.class
+my\interfaces\GetAllProducts.class
+my\interfaces\DeleteProduct.class
+my\interfaces\package-info.class
+my\interfaces\UpdateProduct.class
+my\interfaces\Products.class
